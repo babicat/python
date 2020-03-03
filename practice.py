@@ -51,4 +51,6 @@ str = str.replace("^", "")
 print(str[::-1])
 
 print()
+
+
 '''
