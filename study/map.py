@@ -14,8 +14,9 @@ Reduce(f, l)  << 요기는 리스트 값 자체를 변경하는게 아니므로,
 이 함수를 사용하기 위해서는 import 해야 함. (from functools import reduce)
 
 
-
 http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html
+
+
 
 
 #2. 초보를 위한 lambda 함수 설명
@@ -24,6 +25,8 @@ http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html
 처음코딩에서 연산속도 관련해서 설명했던게 기억이 나는데, lambda 함수의 연산속도가 가장 느려서 인상 깊었다.(?)
 
 https://wikidocs.net/64
+
+
 
 
 #3. Iterator 설명(1번 글을 이해하기 위해 필요)
