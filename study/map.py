@@ -20,6 +20,9 @@ http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html
 
 #2. 초보를 위한 lambda 함수 설명
 
+익명의 함수. 잠깐 쓰고 버리는 용도? 메모리 관리에 좋다고 한다. 함수를 한줄로 간결하게 표현해서 사용 할 수 있음.
+처음코딩에서 연산속도 관련해서 설명했던게 기억이 나는데, lambda 함수의 연산속도가 가장 느려서 인상 깊었다.(?)
+
 https://wikidocs.net/64
 
 
