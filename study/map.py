@@ -27,6 +27,7 @@ https://wikidocs.net/64
 
 
 #3. Iterator 설명(1번 글을 이해하기 위해 필요)
+반복 가능한 객체. list, tuple, range 등. 배열 형태들을 말하는건가?
 일단 iter() 함수 사용법은 패스했음.
 
 https://niceman.tistory.com/136
