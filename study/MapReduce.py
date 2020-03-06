@@ -10,9 +10,8 @@ https://3months.tistory.com/521
 
 
 
-
-
-
+#3. MapReduce 개념
+https://blog.acronym.co.kr/312
 
 
 
