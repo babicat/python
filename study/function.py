@@ -27,13 +27,35 @@ http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html
 https://wikidocs.net/64
 
 
-
-
 #3. Iterator 설명(1번 글을 이해하기 위해 필요)
 반복 가능한 객체. list, tuple, range 등. 배열 형태들을 말하는건가?
 일단 iter() 함수 사용법은 패스했음.
 
 https://niceman.tistory.com/136
+
+
+
+#4. strip()
+주어진 문자열에서 양쪽 끝에 있는 공백과 \n 기호를 삭제시켜 주는 함수 (문자열 중간은 X)
+ex)  '\nabcde '.strip()
+
+#5. replace()
+첫 번째 인자를 두 번째 인자로 대체하는 함수
+ex) 'a,b,c,d'.replace(',','/')
+연달아서 사용도 가능하다. 다만 앞의 함수를 적용한 결과에 다음 함수를 적용한다.
+ex) 'a,b,c,d'.replace(',','/').replace('/','-')
+
+#6. readlines()
+각 라인이 하나의 원소로 있는 리스트를 생성해준다.
+read()
+라인을 구분하지 않고 파일에 있는 내용을 한꺼번에 연결해서 표현해준다.
+
+
+
+
+
+
+
 
 
 '''
