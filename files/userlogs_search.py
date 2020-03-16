@@ -1,7 +1,7 @@
-import userlogs_func as f
+import userlogs_func_m as f
 
 # 데이터 읽어오기
-read_data = f.read_file("C:\\workspace\\sona_python\\files\\temp.sql")
+read_data = f.read_file("C:\\workspace\\sona_python\\files\\userlogs.sql")
 
 # 읽어온 데이터를 list에 넣는다.
 create_list = f.create_list(read_data)
