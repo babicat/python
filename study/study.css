@@ -1,0 +1,36 @@
+/*
+h1 {
+    border-bottom: 2px purple solid;
+    padding: 50px;
+    font-size: 50px;
+    margin: 0px;
+    color: purple;
+}
+*/
+
+ol {
+    border-right: 2px purple solid;
+    width: 250px;
+    height: 800px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+ol li{
+    padding: 10px;
+    color: purple;
+}
+
+img {
+    float: right;
+}
+
+#cotainer {
+    width: 10000px;
+    background-color: purple;
+    border: 2px purple solid;
+    padding: 0px;
+    font-size: 50px;
+    margin: 0px;
+    color: purple;
+}
