@@ -1,13 +1,13 @@
-/*
-h1 {
-    border-bottom: 2px purple solid;
-    padding: 50px;
-    font-size: 50px;
-    margin: 0px;
-    color: purple;
-}
-*/
 
+h1 {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 1400px;
+    color: #B18ADB;
+}
+
+
+/*
 ol {
     border-right: 2px purple solid;
     width: 250px;
@@ -20,17 +20,37 @@ ol li{
     padding: 10px;
     color: purple;
 }
-
-img {
-    float: right;
-}
-
-#cotainer {
-    width: 10000px;
-    background-color: purple;
-    border: 2px purple solid;
+*/
+#sona_cotainer {
+    width: 100%;
     padding: 0px;
     font-size: 50px;
     margin: 0px;
+    background-color: lightpink;
+    border: 2px purple solid;
     color: purple;
+}
+
+.main_smikko {
+    width: 33%;
+    display: inline-block;
+}
+
+#sona_main {
+    width: 100%;
+    height: 550px;
+    margin: 2px;
+    margin-top: 10px;
+    text-align: center;
+    border: 2px #B18ADB solid;
+    font-size: 20px;
+    color: #B18ADB;
+}
+
+#sona_footer {
+ width: 100%;
+ height: 170px;
+ margin: 2px;
+ margin-top: 10px;
+ border: 2px #B18ADB solid;
 }
