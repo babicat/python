@@ -1,26 +1,15 @@
-
 h1 {
     font-size: 30px;
     margin-left: 20px;
-    margin-right: 1400px;
+    margin-right: 1000px;
     color: #B18ADB;
 }
 
-
-/*
-ol {
-    border-right: 2px purple solid;
-    width: 250px;
-    height: 800px;
+h3 {
     font-size: 20px;
-    margin: 0px;
+    text-align: center;
 }
 
-ol li{
-    padding: 10px;
-    color: purple;
-}
-*/
 #sona_cotainer {
     width: 100%;
     padding: 0px;
@@ -38,14 +27,23 @@ ol li{
 
 #sona_main {
     width: 100%;
-    height: 550px;
+    height: 400px;
     margin: 2px;
     margin-top: 10px;
-    text-align: center;
     border: 2px #B18ADB solid;
     font-size: 20px;
     color: #B18ADB;
 }
+
+.main_content {
+    width: 30%;
+    height: 380px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 15px;
+    border: 1px #B18ADB solid;
+}
+
 
 #sona_footer {
  width: 100%;
