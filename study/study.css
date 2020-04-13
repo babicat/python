@@ -14,7 +14,7 @@ h1 {
 }
 
 #sona_container {
-    width: 2500px;
+    width: 2000px;
     padding: 0px;
     font-size: 15px;
     margin: 0px;
@@ -22,7 +22,7 @@ h1 {
 }
 
 #main_img {
-    width: 2500px;
+    width: 2000px;
     margin: 2px;
     margin-left: 30px;
     overflow: hidden;
@@ -36,14 +36,14 @@ h1 {
 }
 
 .main_smikko img {
-    width: 700px;
-    height: 400px;
+    width: 100%;
+    height: 350px;
     display: block;
     margin: auto;
 }
 
 #sona_main {
-    width: 2500px;
+    width: 2000px;
     margin: 2px;
     margin-top: 5px;
     margin-left: 30px;
@@ -54,7 +54,7 @@ h1 {
 
 .main_content {
     width: 30%;
-    height: 450px;
+    height: 350px;
     margin: 5px;
     float: left;
     font-size: 15px;
@@ -63,7 +63,7 @@ h1 {
 }
 
 .main_content img {
-    height: 390px;
+    width: 100%;
     display: block;
     margin: auto;
 }
@@ -74,7 +74,6 @@ h1 {
     text-align: center;
 }
 
-
 .main_content ul{
     margin-left: 10px;
     margin-right: 10px;
@@ -82,12 +81,10 @@ h1 {
     color: lightgray;
 }
 
-
-
 #sona_footer {
- width: 2500px;
+ width: 2000px;
  height: 100px;
- margin: 2px;
+ margin: 0px;
  margin-top: 5px;
  border: 1px #B18ADB solid;
  background-color: rgb(255, 230, 253);
@@ -99,4 +96,141 @@ h1 {
 #sona_footer button {
     float: right;
     margin: 25px;
+}
+
+/* 1920 */
+@media only screen and (max-width: 1920px) {
+    #sona_container {
+        width: 1920px;
+    }
+    #main_img {
+        width: 1920px;
+    }
+    #sona_footer {
+        width: 1920px;
+    }
+    #sona_main {
+        width: 1920px;
+    }
+}
+
+/* 1440 */
+@media only screen and (max-width: 1440px) {
+    #sona_container {
+        width: 1440px;
+    }
+    #main_img {
+        width: 1440px;
+    }
+    #sona_footer {
+        width: 1440px;
+    }
+    #sona_main {
+        width: 1440px;
+    }
+}
+
+/* 1280 */
+@media only screen and (max-width: 1280px) {
+    #sona_container {
+        width: 1280px;
+    }
+    #main_img {
+        width: 1280px;
+    }
+    #sona_footer {
+        width: 1280px;
+    }
+    #sona_main {
+        width: 1280px;
+    }
+}
+
+/* 1098 */
+@media only screen and (max-width: 1098px) {
+    #sona_container {
+        width: 1098px;
+    }
+    #main_img {
+        width: 1098px;
+    }
+    #sona_footer {
+        width: 1098px;
+    }
+    #sona_main {
+        width: 1098px;
+    }
+}
+
+/* 780 */
+@media only screen and (max-width: 780px) {
+    #sona_container {
+        width: 780px;
+    }
+    #main_img {
+        width: 780px;
+    }
+    #sona_footer {
+        width: 780px;
+    }
+    #sona_main {
+        width: 780px;
+    }
+    .main_smikko {
+        float: none;
+        width: 100%;
+    }
+    .main_content {
+        float: none;
+        width: 100%;
+        overflow: hidden;
+    }
+}
+
+/* 640 */
+@media only screen and (max-width: 640px) {
+    #sona_container {
+        width: 640px;
+    }
+    #main_img {
+        width: 640px;
+    }
+    #sona_footer {
+        width: 640px;
+    }
+    #sona_main {
+        width: 640px;
+    }
+}
+
+/* 460 */
+@media only screen and (max-width: 460px) {
+    #sona_container {
+        width: 460px;
+    }
+    #main_img {
+        width: 460px;
+    }
+    #sona_footer {
+        width: 460px;
+    }
+    #sona_main {
+        width: 460px;
+    }
+}
+
+/* 325 */
+@media only screen and (max-width: 325px) {
+    #sona_container {
+        width: 325px;
+    }
+    #main_img {
+        width: 325px;
+    }
+    #sona_footer {
+        width: 325px;
+    }
+    #sona_main {
+        width: 325px;
+    }
 }
