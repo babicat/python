@@ -21,3 +21,13 @@ num = '3212'
 base = 5
 answer = int(num, base)
 
+
+#
+Python 문자열 숫자 왼쪽 가운데 오른쪽 줄맞춤 정렬
+
+s = '가나다라'
+n = 7
+
+s.ljust(n) # 좌측 정렬
+s.center(n) # 가운데 정렬
+s.rjust(n) # 우측 정렬
