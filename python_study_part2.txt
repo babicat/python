@@ -112,3 +112,13 @@ answer = list(map(len, list1))
 
 
 
+#
+sequence 멤버를 하나로 이어붙이기 - join
+
+문자열 배열 ['1', '100', '33']을 이어 붙여 문자열 '110033' 만들기
+
+my_list = ['1', '100', '33']
+answer = ''.join(my_list)
+
+
+
