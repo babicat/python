@@ -1,0 +1,4 @@
+requests
+selenium
+pytest
+slackclient==2.5.0
